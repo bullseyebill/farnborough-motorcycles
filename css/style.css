@@ -35,7 +35,7 @@ body a:hover{
 /*--header--*/
 .header {
     padding: .8em 0;
-    background-color: #01553D;
+    background-color: #60ab6d;
 }
 .header-info p {
     font-size: 1.3em;
@@ -44,7 +44,7 @@ body a:hover{
 }
 .header-info p:before {
     content: '';
-    background: url(../images/iconsprite.png)no-repeat -52px 1px;
+    background: url(/images/iconsprite.png)no-repeat -52px 1px;
     display: inline-block;
     width: 16px;
     height: 16px;
@@ -100,7 +100,7 @@ button.btn.btn-default:hover {
 }
 /*--top-nav--*/
 h1 a.navbar-brand {
-    font-size: 2em;
+    font-size: 1.3em;
     margin: 0 !important;
     display: block;
     font-family: 'Roboto', sans-serif;
@@ -529,7 +529,7 @@ h3.title {
 /*--services--*/
 .services {
     padding: 5em 0;
-    background: url(../images/slid.jpg) fixed;
+    background: url(../images/f-10.jpg) fixed;
     background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
