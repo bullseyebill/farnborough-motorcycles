@@ -44,7 +44,7 @@ body a:hover{
 }
 .header-info p:before {
     content: '';
-    background: url(/images/iconsprite.png)no-repeat -52px 1px;
+    background: url(#)no-repeat -52px 1px;
     display: inline-block;
     width: 16px;
     height: 16px;
@@ -81,15 +81,8 @@ button.btn.btn-default:focus {
   background-color:inherit !important;
   box-shadow: none !important;
   border-color:none !important;
-  
 }
-span.glyphicon.glyphicon-search {
-    font-size: 1.3em;
-	color: #01553D;
-}
-span.glyphicon.glyphicon-search:focus {
-    outline: none;
-}
+
 button.btn.btn-default:hover {
     background-color: #FFF;
 }
@@ -170,11 +163,11 @@ div#bs-example-navbar-collapse-1 {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color: #B3AFA6;
+    background-color: #645948;
 }
 /*--//top-nav--*/
 .banner{
-	background: url(../images/fb_1.jpg) no-repeat 0px 0px;
+	background: url(../images/fm_1.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height:600px;
 	position:relative;
@@ -191,12 +184,12 @@ div#bs-example-navbar-collapse-1 {
     width: 30%;	
 }
 .banner-text h2 {
-    font-size: 5em;
-    color: #fff;
+    font-size: 6em;
+    color: #000000;
 }
 .banner-text p {
     font-size: 1.2em;
-    color: #D6E2DF;
+    color: #645948;
     margin: 1em 0;
     letter-spacing: 1px;
 }
