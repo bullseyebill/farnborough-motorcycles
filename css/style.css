@@ -774,7 +774,7 @@ h3.title {
 	margin: 0 .5em;
 	list-style: none;
 	width: 22%;
-	border: 1px solid rgb(32, 36, 41);
+	border: 1px solid green;
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
 	-ms-transition: all 0.3s ease-out;
