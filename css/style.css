@@ -137,7 +137,7 @@ div#bs-example-navbar-collapse-1 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #B3AFA6;
+  background: #0e7cda;
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 0;
@@ -163,7 +163,7 @@ div#bs-example-navbar-collapse-1 {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color: #645948;
+    background-color: #0e7cda;
 }
 /*--//top-nav--*/
 .banner{
